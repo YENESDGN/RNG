@@ -35,6 +35,8 @@ class XorshiftRNG:
 
 ## Kullanım Örneği
 
+<img width="744" height="908" alt="Image" src="https://github.com/user-attachments/assets/6f4f090d-36ea-47e9-accc-bd46686875fd" />
+
 ```python
 from rng import XorshiftRNG
 
